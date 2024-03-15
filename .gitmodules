@@ -1,0 +1,8 @@
+[submodule "UBOS-template-image-to-text-claude-ui"]
+	path = UBOS-template-image-to-text-claude-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-image-to-text-claude-ui.git
+	branch=main
+[submodule "UBOS-template-image-to-text-claude-nr"]
+	path = UBOS-template-image-to-text-claude-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-image-to-text-claude-nr.git
+	branch=main
