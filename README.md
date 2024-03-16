@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  <b><a href="https://documentation.ubos.tech/">Get Started</a></b>
+  <b><a href="https://documentation.ubos.tech/docs/intro">Get Started</a></b>
   •
   <a href="https://community.ubos.tech/">Community</a>
   •
