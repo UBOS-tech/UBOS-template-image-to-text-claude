@@ -42,7 +42,7 @@
   <h2>Key Features</h2>
 
   <h3>Image Upload</h3>
-  <p>The template features a user-friendly interface that allows users to upload images in popular formats such as JPEG, PNG, and others. The uploading process is straightforward and intuitive, ensuring a smooth user experience.</p>
+  <p>The template features a user-friendly interface that allows users to upload images in popular formats such as JPEG, PNG, GIF, WEBP. The uploading process is straightforward and intuitive, ensuring a smooth user experience.</p>
 
   <h3>Text Extraction with Claude 3</h3>
   <p>At the heart of this template lies the powerful Claude 3 AI model, specifically designed for image analysis and text generation tasks. Claude 3 employs advanced computer vision and natural language processing techniques to accurately interpret the visual content and generate detailed textual descriptions.</p>
