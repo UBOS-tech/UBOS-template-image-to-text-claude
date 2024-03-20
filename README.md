@@ -69,3 +69,7 @@
 
   <h2>Benefits</h2>
   <p>The Image to Text with Claude 3 template empowers users with a robust and efficient solution for extracting valuable information from images. Whether for accessibility purposes, content indexing, data analysis, or simply gaining insights from visual data, this template offers a comprehensive and user-friendly experience. By leveraging the advanced capabilities of Claude 3, users can unlock the hidden potential of their visual content and transform it into actionable and meaningful textual information.</p>
+
+    <p>
+    <img src="https://ubos.tech/wp-content/uploads/2024/03/Group-15.png" alt="Image">
+  </p>
